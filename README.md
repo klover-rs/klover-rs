@@ -4,4 +4,6 @@ you all are talking about the one, what if i tell you this principe is bs and th
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-rs&layout=donut)
 
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-rs&show_icons=true&theme=radical)
+
 thank you for reading my about me. ilya, you all should follow jesus christ.
